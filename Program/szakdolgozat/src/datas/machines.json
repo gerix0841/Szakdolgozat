@@ -1,0 +1,39 @@
+{
+	"machines": [
+		{
+			"name": "Elite Fitness 2000 futópad",
+			"price": 550000,
+			"quantity": 5,
+			"description": "Az Elite Fitness 2000 futópadot magas minőség és időtállóság jellemzi.",
+			"img": "elitefutopad.png" 
+		},
+        {
+			"name": "FitTech spinning kerékpár",
+			"price": 399000,
+			"quantity": 5,
+			"description": "Mágnesfékes ellenállás és ékszíjmeghajtás. Egyedileg állítható ülés.",
+			"img": "fittechspinning.png" 
+		},
+        {
+			"name": "TRUE Fitness Multi-Press",
+			"price": 289000,
+			"quantity": 5,
+			"description": "Mellnyomó, döntött mellnyomó, vállnyomó. Nyomókarja, ülése és háttámlája állítható.",
+			"img": "truefitnesspress.png" 
+		},
+        {
+			"name": "TRUE Fitness Bicepsz/Tricepsz gép",
+			"price": 350000,
+			"quantity": 5,
+			"description": "Használatával gyorsan, egy gépen meg tudjuk dolgoztatni kar izmainkat.",
+			"img": "truefitnessbictric.png" 
+		},
+        {
+			"name": "TRUE Fitness Hátlehúzó/Evezőgép",
+			"price": 400000,
+			"quantity": 5,
+			"description": "Lehúzó és evező mozdulatot is végre tudunk hajtani, így a kompletten meg tudjuk vele dolgoztatni őket.",
+			"img": "truefitnesshatevezo.png" 
+		}
+	]
+}

@@ -1,0 +1,60 @@
+{
+	"supplements": [
+		{
+			"name": "BioTech Protein Power 1000g",
+			"price": 8490,
+			"quantity": 10,
+			"description": "Fehérje italpor, szója izolátum, kazein és tejsavó forrásokból, kreatinnal és édesítőszerekkel.",
+			"img": "biotechproteinpower.png" 
+		},
+		{
+			"name": "BioTech Muscle Mass 1000g",
+			"price": 5790,
+			"quantity": 8,
+			"description": "Szénhidrát- és fehérjetartalmú italpor, hozzáadott kreatinnal és glutamin peptidekkel.",
+			"img": "biotechmusclemass.png" 
+		},
+		{
+			"name": "BioTech Hyper Mass 1000g",
+			"price": 6990,
+			"quantity": 5,
+			"description": "Szénhidrát- és fehérjetartalmú italpor, kreatinnal, magas élelmirosttartalommal.",
+			"img": "biotechproteinpower.png" 
+		},
+		{
+			"name": "BioTech Pure Whey 1000g",
+			"price": 11990,
+			"quantity": 15,
+			"description": "A BioTechUSA 100% Pure Whey Natural egy tejsavófehérje-koncentrátum adalékanyagok nélkül.",
+			"img": "biotechpurewhey.png" 
+		},
+		{
+			"name": "BioTech Iso Whey Zero 500g",
+			"price": 7990,
+			"quantity": 5,
+			"description": "Különleges minőségű tejsavó-fehérje izolátum, hozzáadott BCAA és glutamin aminosavakkal.",
+			"img": "biotechizowheyzero.png" 
+		},
+		{
+			"name": "GymBeam True Whey 1000g",
+			"price": 6490,
+			"quantity": 7,
+			"description": "A True Whey egy tejsavófehérje-koncentrátum. Hozzájárul az izomtömeg növekedéséhez.",
+			"img": "gymbeamtruewhey.png" 
+		},
+		{
+			"name": "GymBeam Anabolic Whey 1000g",
+			"price": 5090,
+			"quantity": 3,
+			"description": "Többkomponensű fehérje, amely tejsavó koncentrátumot tartalmaz.",
+			"img": "gymbeamanabolicwhey.png" 
+		},
+		{
+			"name": "GymBeam Kreatin Monohidrát 250g",
+			"price": 4590,
+			"quantity": 15,
+			"description": "A nagy intenzitású, rövid ideig tartó sportteljesítmény fokozására szolgál.",
+			"img": "gymbeamkreatin.png" 
+		}
+	]
+}

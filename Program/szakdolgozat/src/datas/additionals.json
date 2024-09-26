@@ -1,0 +1,39 @@
+{
+	"additionals": [
+		{
+			"name": "GymBeam Duffle All Black sporttáska",
+			"price": 5990,
+			"quantity": 7,
+			"description": "Tágas, stílusos tervezésű fitness táska. Erős, állítható vállpánt és 2 tartós fogantyú.",
+			"img": "gymbeamtaska.png" 
+		},
+        {
+			"name": "GymBeam Black ugrálókötél",
+			"price": 1890,
+			"quantity": 7,
+			"description": "A fekete ugrálókötél a kardio és a HIIT edzések hatékony segédeszköze, profi és hobbi sportolók számára egyaránt ajánlott.",
+			"img": "gymbeamugrokotel.png" 
+		},
+        {
+			"name": "GymBeam szivacshenger",
+			"price": 4890,
+			"quantity": 4,
+			"description": "A fitnesz szivacshenger egy praktikus fitneszeszköz az egész test önmasszázsához, amelyet mindenki könnyen elsajátíthat.",
+			"img": "gymbeamhenger.png" 
+		},
+        {
+			"name": "GymBeam fekete shaker 700ml",
+			"price": 1490,
+			"quantity": 15,
+			"description": "A Fekete shaker egy shaker 700 ml űrtartalommal, amely nem mérgező műanyagból készült.",
+			"img": "gymbeamshaker.png" 
+		},
+        {
+			"name": "GymBeam Gurtni",
+			"price": 1290,
+			"quantity": 4,
+			"description": "A csúszásgátló rétegnek köszönhetően erősíti a fogást és ezáltal segít az erő és az izomtömeg növelésénél.",
+			"img": "gymbeamgurtni.png" 
+		}
+	]
+}

@@ -1,0 +1,27 @@
+body,html {
+    color: white;
+    background-color: #333;
+    padding: 10px;
+    min-height: 80vh;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: center;
+    font-size: 40px;
+}
+
+p {
+    font-size: 25px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  
+.centered-image {
+    height: 500px;
+    padding: 30px;
+}
